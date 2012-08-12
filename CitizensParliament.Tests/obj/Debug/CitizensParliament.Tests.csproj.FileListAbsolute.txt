@@ -6,3 +6,11 @@ C:\Users\Tony\documents\visual studio 2010\Projects\CitizensParliament.Tests\bin
 C:\Users\Tony\documents\visual studio 2010\Projects\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Tony\documents\visual studio 2010\Projects\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.dll
 C:\Users\Tony\documents\visual studio 2010\Projects\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\bin\Debug\CitizensParliament.Tests.dll.config
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\bin\Debug\CitizensParliament.Tests.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\bin\Debug\CitizensParliament.Tests.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\bin\Debug\CitizensParliament.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\bin\Debug\CitizensParliament.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\ICitizenParliamentApp\CitizensParliament.Tests\obj\Debug\CitizensParliament.Tests.pdb
